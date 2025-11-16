@@ -22,12 +22,7 @@ except ImportError:
 
 def banner():
     print(r"""
-   ____ _ _     ____      _ _   
-  / ___(_) |_  |  _ \ ___| | |_ 
- | |  _| | __| | |_) / _ \ | __|
- | |_| | | |_  |  _ <  __/ | |_ 
-  \____|_|\__| |_| \_\___|_|\__|
-      Public OSINT Recon Tool
+  WEBSITE INFORMATION GATHERING.
     """)
     print("="*50)
 
